@@ -1,0 +1,4 @@
+1- Introduction 
+2- Hosting Options
+3- Adding Project to Git
+4- Getting Started with Heroku 
